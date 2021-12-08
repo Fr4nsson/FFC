@@ -1,7 +1,7 @@
 If you are unsure of your version press ALT+U, go to the 'Shared' tab and in the bottom right 
 (the bread macro) you can see your version.
 
-If you didn't update to V2.3 and you're currently on V2.2 and want to manually update to v2.3 AND you are
+If you didn't update to V2.3 and you're currently on V2.2 and you want to manually update to v2.3 AND you are
 using the old hotbar orders then use the macros directly below
 Make sure you have copied the culinarian layout first and then press ALT+U to bring up the macro editor
 and make macros with the lines below
