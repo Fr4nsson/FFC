@@ -33,7 +33,7 @@ and make macros with the lines below
 
 
 
-If you're currently on V2.3 and maybe you messed up the layouts somehow, use the macros below
+If you're currently on V2.3 and maybe you just messed up the layouts somehow, use the macros below
 Make sure you have copied the culinarian layout first and then press ALT+U to bring up the macro editor
 and make macros with the lines below
 
