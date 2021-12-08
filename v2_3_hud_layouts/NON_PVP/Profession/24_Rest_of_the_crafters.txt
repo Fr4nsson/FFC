@@ -1,3 +1,5 @@
+Make sure you have copied the culinarian layout first and then press ALT+U to bring up macro editor and make a macro with the lines below
+
 /hotbar copy CUL 1 ALC 1
 /hotbar copy CUL 2 ALC 2
 /hotbar copy CUL 3 ALC 3
