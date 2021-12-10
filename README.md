@@ -1,9 +1,11 @@
 # Fr4nsson's FFXIV Config (FFC) | [**Discord**](https://discord.gg/7TJG9H8Xyf) | [**Download**](https://www.nexusmods.com/finalfantasy14/mods/1054?tab=files)
 A complete config for FFXIV with a clean informational HUD layout. All jobs have their spells already assigned to hotbars. This is not a mod and is thus not against [**TOS**](https://support.na.square-enix.com/rule.php?id=5382&la=1), it is 100% safe to use.
 
-1. [About](#about)<br>
-1. [Installation](#installation--video--picture)
-1. [What each files does](#what-each-files-does)
+## Index
+
+1. [About](#about)
+1. [Installation](#installation--video--picture-)
+1. [What each files does](#what-each-files-does-)
 
 ## About
 
@@ -13,7 +15,7 @@ When you take all that into consideration it is not something that is easily don
 
 Obviously not everyone might like the layout or the keybinds, there may also be some stuff that I've missed or some spells that would fit better in a different slot. This is a work in progress after all. If you have any suggestions for improvements, feel free to post it.
 
-## Installation | [**Video**](https://www.youtube.com/watch?v=CnjSLgj-9QE) | [**Picture**](https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation.png)
+## Installation | [**Video**](https://www.youtube.com/watch?v=CnjSLgj-9QE) | [**Picture**](https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation.png) <sup><a href="#index">⮝</a></sup>
 1. Make sure the game is not running! 
 2. Backup your current config, installing this config will overwrite almost everything you have.
 3. <a href="https://www.nexusmods.com/finalfantasy14/mods/1054?tab=files">Download</a> the correct resolution config
@@ -24,7 +26,7 @@ Obviously not everyone might like the layout or the keybinds, there may also be 
 7. Extract files INSIDE of <code>CharacterData</code> into each folder starting with <code>FFXIV_CHR</code> and replace when prompted.
 8. Done
 
-## What each files does
+## What each files does <sup><a href="#index">⮝</a></sup>
 <pre>
 Fr4nsson's FFXIV Config.zip
 |
