@@ -1,19 +1,24 @@
-[custommenugif]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/custom-menu-trans.gif "Custom Menu"
-[index]: #index "Back to top"
 
-# Fr4nsson's FFXIV Config (FFC) | [**Discord**](https://discord.gg/7TJG9H8Xyf) | [**Download**](https://www.nexusmods.com/finalfantasy14/mods/1054?tab=files)
-A complete config for FFXIV with a clean informational HUD layout. All jobs have their spells already assigned to hotbars. No files have been modified or created by third-party applications, all the files have been created and modified by the game. This is not against [**TOS**](https://support.na.square-enix.com/rule.php?id=5382&la=1), it is 100% safe to use.
+[index]: #index "Back to top"
+[terms-of-service]: https://support.na.square-enix.com/rule.php?id=5382&la=1 "Terms of service"
+[discord]: https://discord.gg/7TJG9H8Xyf "Join us on Discord"
+[download]: https://www.nexusmods.com/finalfantasy14/mods/1054?tab=files "Download on nexusmods.com"
+[custom-menu-gif]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/custom-menu-trans.gif "Custom Menu"
+[install-youtube]: https://www.youtube.com/watch?v=CnjSLgj-9QE "Youtube video on how to install"
+[install-picture]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation.png "Picture on how to install"
+
+# Fr4nsson's FFXIV Config (FFC) | [Discord][discord] | [Download][download]
+A complete config for FFXIV with a clean informational HUD layout. All jobs have their spells already assigned to hotbars. No files have been modified or created by third-party applications, all the files have been created and modified by the game. This is not against [TOS][terms-of-service], it is 100% safe to use.
 
 ## Index
 
 1. [About](#about)
-2. [Installation](#installation--video--picture-)
+2. [Installation](#installation--youtube--picture-)
 3. [What each files does](#what-each-files-does-)
 4. [Custom Menu](#custom-menu--)
    1. [non-pvp](#non-pvp-areas-)
    2. [pvp](#pvp-areas-wolves-den-pier-)
-5. test
-6. test
+5. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
 
 ## About
 
@@ -23,10 +28,10 @@ When you take all that into consideration it is not something that is easily don
 
 Obviously not everyone might like the layout or the keybinds, there may also be some stuff that I've missed or some spells that would fit better in a different slot. This is a work in progress after all. If you have any suggestions for improvements, feel free to post it.
 
-## Installation | [**Video**](https://www.youtube.com/watch?v=CnjSLgj-9QE) | [**Picture**](https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation.png) <sup>[⮝][index]</sup>
+## Installation | [Youtube][install-youtube] | [Picture][install-picture] <sup>[⮝][index]</sup>
 1. Make sure the game is not running! 
 2. Backup your current config, installing this config will overwrite almost everything you have.
-3. <a href="https://www.nexusmods.com/finalfantasy14/mods/1054?tab=files">Download</a> the correct resolution config
+3. [Download][download] the correct resolution config
 4. Navigate to your ffxiv config location on your computer, it is usually under<br>
   <code>Documents\My Games\FINAL FANTASY XIV - A Realm Reborn</code>
 5. Open the zip file you downloaded 
@@ -52,17 +57,17 @@ Fr4nsson's FFXIV Config.zip
    |- MACRO.DAT    : Macros (Individual Tab).
 </pre>
 
-## Custom Menu <sup>[⮝][index]</sup> ![][custommenugif]
+## Custom Menu <sup>[⮝][index]</sup> ![][custom-menu-gif]
 The menu works by using jobs as a database and then assigning items, macros or gearsets to a hidden hotbar you normally don't use so if you want to change what appears in the menu you'll have to unlock some jobs. You don't need to grab the jobs in order to use the menu, you only need to do that in order to edit the menu. 
 
-*The logic behind the menu and the macros is found under <code>ALT + U -> Shared Tab</code>*
+The logic behind the menu can be found under <code>ALT + U -> Shared Tab</code>
 
 In order to change what is in the menu you need to change to the job that holds the information you're trying to change and press <code>9</code>.
 A hidden hotbar (database hotbar) will appear in the top center of the screen on which you can drag other macros, items, gearsets, mounts or whatever to, when you're done with the changes press <code>9</code> again to toggle the visibility of the database hotbar.
 
 Below is the currently used jobs, what information they contain in the database and where to get them. Switch to a job listed below and press <code>9</code> to toggle the database for that job.
 
-### Non-PvP Areas <sup>[⮝][index]</sup>
+#### Non-PvP Areas <sup>[⮝][index]</sup>
 
 | Job           | Information | Quest                    | Quest Giver | Location                              |
 | ------------- | ----------- | ------------------------ | ----------- | ------------------------------------- |
@@ -77,7 +82,7 @@ Below is the currently used jobs, what information they contain in the database 
 | Armorer       | Misc2       | Way of the Armorer       | G'wahnako   | Limsa Lominsa Upper Decks (x10,y15)   |
 | Blacksmith    | Misc1       | Way of the Blacksmith    | Randwulf    | Limsa Lominsa Upper Decks (x10,y15)   |
 
-### PvP Areas *(Wolves' Den Pier)* <sup>[⮝][index]</sup>
+#### PvP Areas *(Wolves' Den Pier)* <sup>[⮝][index]</sup>
 
 | Job           | Information | Quest                    | Quest Giver     | Location                               |
 | ------------- | ----------- | ------------------------ | --------------- | -------------------------------------- |
@@ -87,4 +92,21 @@ Below is the currently used jobs, what information they contain in the database 
 | Red Mage      | Tank        | Taking the Red           | Distraught Lass | Ul'dah - Steps of Thal (x14.1,y11.7)   |
 | Black Mage    | Healer      | Way of the Thaumaturge   | Yayake          | Ul'dah - Steps of Nald (x7.3,y12.4)    |
 
+## Frequently Asked Questions (FAQ) <sup>[⮝][index]</sup>
 
+> <details>
+> <summary>I've added the Sage and/or Reaper to the menu but it doesn't save, every time I switch it reverts back</summary>
+> <p></p>
+> If you want to include Sage in the custom menu you need to
+> 
+> 1. Switch to job <code>Alchemist</code> (Alchemist job holds database information regarding healer jobs in non-pvp areas)
+> 2. Press <code>9</code> a new hotbar will appear in the top center of the screen
+> 3. Press <code>SHIFT+G</code> to bring up your gearsets, and drag the sage gearset onto the top center hotbar
+> 4. Press <code>9</code> again to toggle the visibility of the top center hotbar
+> 
+> For Reaper you will follow the exact steps above, just replace <code>Alchemist</code> with <code>Fisher</code>. 
+> 
+> To do this in pvp-areas, tp to <code>Wolves' Den Pier</code> and follow the exact steps above but replace <code>Alchemist</code> with <code>Black Mage (Healer)</code> & > <code>Dancer (Dps)</code> 
+> 
+> For more information on how the custom menu works, see [Custom Menu](#custom-menu--).
+> </details>
