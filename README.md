@@ -1,4 +1,5 @@
 [custommenugif]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/custom-menu-trans.gif "Custom Menu"
+[index]: #index "Back to top"
 
 # Fr4nsson's FFXIV Config (FFC) | [**Discord**](https://discord.gg/7TJG9H8Xyf) | [**Download**](https://www.nexusmods.com/finalfantasy14/mods/1054?tab=files)
 A complete config for FFXIV with a clean informational HUD layout. All jobs have their spells already assigned to hotbars. No files have been modified or created by third-party applications, all the files have been created and modified by the game. This is not against [**TOS**](https://support.na.square-enix.com/rule.php?id=5382&la=1), it is 100% safe to use.
@@ -9,12 +10,10 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
 2. [Installation](#installation--video--picture-)
 3. [What each files does](#what-each-files-does-)
 4. [Custom Menu](#custom-menu--)
-   1. [non-pvp](#non-pvp-areas)
-   2. [pvp](#pvp-areas-wolves-den-pier)
+   1. [non-pvp](#non-pvp-areas-)
+   2. [pvp](#pvp-areas-wolves-den-pier-)
 5. test
 6. test
-
-
 
 ## About
 
@@ -24,7 +23,7 @@ When you take all that into consideration it is not something that is easily don
 
 Obviously not everyone might like the layout or the keybinds, there may also be some stuff that I've missed or some spells that would fit better in a different slot. This is a work in progress after all. If you have any suggestions for improvements, feel free to post it.
 
-## Installation | [**Video**](https://www.youtube.com/watch?v=CnjSLgj-9QE) | [**Picture**](https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation.png) <sup><a href="#index">⮝</a></sup>
+## Installation | [**Video**](https://www.youtube.com/watch?v=CnjSLgj-9QE) | [**Picture**](https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation.png) <sup>[⮝][index]</sup>
 1. Make sure the game is not running! 
 2. Backup your current config, installing this config will overwrite almost everything you have.
 3. <a href="https://www.nexusmods.com/finalfantasy14/mods/1054?tab=files">Download</a> the correct resolution config
@@ -35,7 +34,7 @@ Obviously not everyone might like the layout or the keybinds, there may also be 
 7. Extract files INSIDE of <code>CharacterData</code> into each folder starting with <code>FFXIV_CHR</code> and replace when prompted.
 8. Done
 
-## What each files does <sup><a href="#index">⮝</a></sup>
+## What each files does <sup>[⮝][index]</sup>
 <pre>
 Fr4nsson's FFXIV Config.zip
 |
@@ -53,7 +52,7 @@ Fr4nsson's FFXIV Config.zip
    |- MACRO.DAT    : Macros (Individual Tab).
 </pre>
 
-## Custom Menu <sup><a href="#index">⮝</a></sup> ![][custommenugif]
+## Custom Menu <sup>[⮝][index]</sup> ![][custommenugif]
 The menu works by using jobs as a database and then assigning items, macros or gearsets to a hidden hotbar you normally don't use so if you want to change what appears in the menu you'll have to unlock some jobs. You don't need to grab the jobs in order to use the menu, you only need to do that in order to edit the menu. 
 
 *The logic behind the menu and the macros is found under <code>ALT + U -> Shared Tab</code>*
@@ -63,7 +62,7 @@ A hidden hotbar (database hotbar) will appear in the top center of the screen on
 
 Below is the currently used jobs, what information they contain in the database and where to get them. Switch to a job listed below and press <code>9</code> to toggle the database for that job.
 
-### Non-PvP Areas
+### Non-PvP Areas <sup>[⮝][index]</sup>
 
 | Job           | Information | Quest                    | Quest Giver | Location                              |
 | ------------- | ----------- | ------------------------ | ----------- | ------------------------------------- |
@@ -78,7 +77,7 @@ Below is the currently used jobs, what information they contain in the database 
 | Armorer       | Misc2       | Way of the Armorer       | G'wahnako   | Limsa Lominsa Upper Decks (x10,y15)   |
 | Blacksmith    | Misc1       | Way of the Blacksmith    | Randwulf    | Limsa Lominsa Upper Decks (x10,y15)   |
 
-### PvP Areas *(Wolves' Den Pier)*
+### PvP Areas *(Wolves' Den Pier)* <sup>[⮝][index]</sup>
 
 | Job           | Information | Quest                    | Quest Giver     | Location                               |
 | ------------- | ----------- | ------------------------ | --------------- | -------------------------------------- |
