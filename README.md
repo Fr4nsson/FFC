@@ -28,6 +28,16 @@ When you take all that into consideration it is not something that is easily don
 
 Obviously not everyone might like the layout or the keybinds, there may also be some stuff that I've missed or some spells that would fit better in a different slot. This is a work in progress after all. If you have any suggestions for improvements, feel free to post it.
 
+## Backup <sup>[⮝][index]</sup>
+1. Make sure the game is not running! 
+2. Navigate to your ffxiv config location on your computer, it is usually under<br>
+   <code>Documents\My Games\FINAL FANTASY XIV - A Realm Reborn</code>
+3. Make a copy of the following items and put them somewhere safe<br>
+   <code>FFXIV.cfg</code><br>
+   <code>MACROSYS.dat</code><br>
+   <code>FFXIV_CHR</code> folders
+5. Done
+
 ## Installation | [Youtube][install-youtube] | [Picture][install-picture] <sup>[⮝][index]</sup>
 1. Make sure the game is not running! 
 2. Backup your current config, installing this config will overwrite almost everything you have.
