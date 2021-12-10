@@ -1,11 +1,20 @@
+[custommenugif]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/custom-menu-trans.gif "Custom Menu"
+
 # Fr4nsson's FFXIV Config (FFC) | [**Discord**](https://discord.gg/7TJG9H8Xyf) | [**Download**](https://www.nexusmods.com/finalfantasy14/mods/1054?tab=files)
-A complete config for FFXIV with a clean informational HUD layout. All jobs have their spells already assigned to hotbars. This is not a mod and is thus not against [**TOS**](https://support.na.square-enix.com/rule.php?id=5382&la=1), it is 100% safe to use.
+A complete config for FFXIV with a clean informational HUD layout. All jobs have their spells already assigned to hotbars. No files have been modified or created by third-party applications, all the files have been created and modified by the game. This is not against [**TOS**](https://support.na.square-enix.com/rule.php?id=5382&la=1), it is 100% safe to use.
 
 ## Index
 
 1. [About](#about)
-1. [Installation](#installation--video--picture-)
-1. [What each files does](#what-each-files-does-)
+2. [Installation](#installation--video--picture-)
+3. [What each files does](#what-each-files-does-)
+4. [Custom Menu](#custom-menu--)
+   1. [non-pvp](#non-pvp-areas)
+   2. [pvp](#pvp-areas-wolves-den-pier)
+5. test
+6. test
+
+
 
 ## About
 
@@ -43,3 +52,40 @@ Fr4nsson's FFXIV Config.zip
    |- LOGFLTR.DAT  : Chat log filter settings.
    |- MACRO.DAT    : Macros (Individual Tab).
 </pre>
+
+## Custom Menu <sup><a href="#index">⮝</a></sup> ![][custommenugif]
+The menu works by using jobs as a database and then assigning items, macros or gearsets to a hidden hotbar you normally don't use so if you want to change what appears in the menu you'll have to unlock some jobs. You don't need to grab the jobs in order to use the menu, you only need to do that in order to edit the menu. 
+
+*The logic behind the menu and the macros is found under <code>ALT + U -> Shared Tab</code>*
+
+In order to change what is in the menu you need to change to the job that holds the information you're trying to change and press <code>9</code>.
+A hidden hotbar (database hotbar) will appear in the top center of the screen on which you can drag other macros, items, gearsets, mounts or whatever to, when you're done with the changes press <code>9</code> again to toggle the visibility of the database hotbar.
+
+Below is the currently used jobs, what information they contain in the database and where to get them. Switch to a job listed below and press <code>9</code> to toggle the database for that job.
+
+### Non-PvP Areas
+
+| Job           | Information | Quest                    | Quest Giver | Location                              |
+| ------------- | ----------- | ------------------------ | ----------- | ------------------------------------- |
+| Botanist      | Expand      | Way of the Botanist      | Leonceault  | Old Gridania (x6.4, y8.3)             |
+| Miner         | Collapse    | Way of the Miner         | Linette     | Ul'dah - Steps of Thal (x11,y14)      |
+| Fisher        | Dps         | Way of the Fisher        | N'nmulika   | Limsa Lominsa Lower Decks (x7,y14)    |
+| Culinarian    | Tanks       | Way of the Culinarian    | Charlys     | Limsa Lominsa Upper Decks (x9,y7)     |
+| Alchemist     | Healers     | Way of the Alchemist     | Deitrich    | Ul'dah - Steps of Thal (x9, y13)      |
+| Weaver        | Professions | Way of the Weaver        | Maronne     | Ul'dah - Steps of Thal (x13.9, y13.2) |
+| Leatherworker | Items       | Way of the Leatherworker | Randall     | Old Gridania (x12.5, y8.2)            |
+| Goldsmith     | Hunt        | Way of the Goldsmith     | Jemime      | Ul'dah - Steps of Thal (x10, y13)     |
+| Armorer       | Misc2       | Way of the Armorer       | G'wahnako   | Limsa Lominsa Upper Decks (x10,y15)   |
+| Blacksmith    | Misc1       | Way of the Blacksmith    | Randwulf    | Limsa Lominsa Upper Decks (x10,y15)   |
+
+### PvP Areas *(Wolves' Den Pier)*
+
+| Job           | Information | Quest                    | Quest Giver     | Location                               |
+| ------------- | ----------- | ------------------------ | --------------- | -------------------------------------- |
+| Bard          | Expand      | Way of the Archer        | Athelyna        | New Gridania (x15,y12)                 |
+| Machinist     | Collapse    | Savior of Skysteel       | Stephanivien    | Ishgard - Foundation (x8.1,y10.1)      |
+| Dancer        | Dps         | Shall We Dance           | Eager Lominsan  | Limsa Lominsa Lower Decks (x9.8,y12.0) |
+| Red Mage      | Tank        | Taking the Red           | Distraught Lass | Ul'dah - Steps of Thal (x14.1,y11.7)   |
+| Black Mage    | Healer      | Way of the Thaumaturge   | Yayake          | Ul'dah - Steps of Nald (x7.3,y12.4)    |
+
+
