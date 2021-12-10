@@ -94,16 +94,19 @@ Below is the currently used jobs, what information they contain in the database 
 
 ## Frequently Asked Questions (FAQ) <sup>[⮝][index]</sup>
 
-> <details>
+> <details><br>
 > <summary>What version am I using?</summary>
-> <p></p>
 > You can always view your current version of the config by opening the macro menu by pressing 
 > <code>ALT + U</code> go to the <code>Shared Tab</code> and in the bottom right check the macro with the <code>Bread Icon</code>. Compare it to the newest version on nexusmods to see if you have the current one.
-> </details>
+</details>
 
-> <details>
+> <details><br>
+> <summary>Is this against TOS? can I get banned for using this?</summary>
+> No, this is not even a mod, it's only a config so it is 100% safe to use. There is no external files added, all the files have been created by the game and modified by the game. No files have been modified or created by third-party applications.
+</details>
+
+> <details><br>
 > <summary>I've added the Sage and/or Reaper to the menu but it doesn't save, every time I switch it reverts back</summary>
-> <p></p>
 > If you want to include Sage in the custom menu you need to
 > 
 > 1. Switch to job <code>Alchemist</code> (Alchemist job holds database information regarding healer jobs in non-pvp areas)
@@ -116,10 +119,9 @@ Below is the currently used jobs, what information they contain in the database 
 > To do this in pvp-areas, tp to <code>Wolves' Den Pier</code> and follow the exact steps above but replace <code>Alchemist</code> with <code>Black Mage (Healer)</code> & <code>Dancer (Dps)</code> 
 > 
 > For more information on how the custom menu works, see [Custom Menu](#custom-menu--).
-> </details>
+</details>
 
-> <details>
+> <details><br>
 > <summary>In expandable menu, when I click on job change icon, nothing happens, whats wrong?</summary>
-> <p></p>
 > Wrong gearset name, make sure at least one of each job has a gearset with default name, for example gunbreaker gearset should be <code>GNB(ilvl)</code> If this happens in PvP areas it's because you're not currently a compatible job for PvP, i.e. professions and blue mage won't work in pvp area with custom menu since they don't have pvphotbars, switch to a compatible job by bringing up gearset menu <code>SHIFT + G</code>.
-> </details>
+</details>
