@@ -1,8 +1,8 @@
-# Fr4nsson's FFXIV Config | [**Discord**](https://discord.gg/7TJG9H8Xyf) | [**Download**](https://www.nexusmods.com/finalfantasy14/mods/1054?tab=files)
+# Fr4nsson's FFXIV Config (FFC) | [**Discord**](https://discord.gg/7TJG9H8Xyf) | [**Download**](https://www.nexusmods.com/finalfantasy14/mods/1054?tab=files)
 A complete config for FFXIV with a clean informational HUD layout. All jobs have their spells already assigned to hotbars. This is not a mod and is thus not against [**TOS**](https://support.na.square-enix.com/rule.php?id=5382&la=1), it is 100% safe to use.
 
 1. [About](#about)<br>
-1. [Installing](#installation)
+1. [Installation](#installation--video)
 1. [What each files does](#what-each-files-does)
 
 ### About
@@ -13,7 +13,7 @@ When you take all that into consideration it is not something that is easily don
 
 Obviously not everyone might like the layout or the keybinds, there may also be some stuff that I've missed or some spells that would fit better in a different slot. This is a work in progress after all. If you have any suggestions for improvements, feel free to post it.
 
-### Installation 
+### Installation | [**Video**](https://www.youtube.com/watch?v=CnjSLgj-9QE)
 1. Make sure the game is not running! 
 1. Backup your current config, installing this config will overwrite almost everything you have.
 1. <a href="https://www.nexusmods.com/finalfantasy14/mods/1054?tab=files">Download</a> the correct resolution config
