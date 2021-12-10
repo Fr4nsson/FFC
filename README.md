@@ -13,12 +13,13 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
 ## Index
 
 1. [About](#about)
-2. [Installation](#installation--youtube--picture-)
-3. [What each files does](#what-each-files-does-)
-4. [Custom Menu](#custom-menu--)
+2. [Backup](#backup-)
+3. [Installation](#installation--youtube--picture-)
+4. [What each files does](#what-each-files-does-)
+5. [Custom Menu](#custom-menu--)
    1. [non-pvp](#non-pvp-areas-)
    2. [pvp](#pvp-areas-wolves-den-pier-)
-5. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
+6. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
 
 ## About
 
@@ -40,7 +41,7 @@ Obviously not everyone might like the layout or the keybinds, there may also be 
 
 ## Installation | [Youtube][install-youtube] | [Picture][install-picture] <sup>[⮝][index]</sup>
 1. Make sure the game is not running! 
-2. Backup your current config, installing this config will overwrite almost everything you have.
+2. [Backup](#backup-) your current config, installing this config will overwrite almost everything you have.
 3. [Download][download] the correct resolution config
 4. Navigate to your ffxiv config location on your computer, it is usually under<br>
   <code>Documents\My Games\FINAL FANTASY XIV - A Realm Reborn</code>
@@ -106,8 +107,8 @@ Below is the currently used jobs, what information they contain in the database 
 
 > <details><br>
 > <summary>What version am I using?</summary>
-> You can always view your current version of the config by opening the macro menu by pressing 
-> <code>ALT + U</code> go to the <code>Shared Tab</code> and in the bottom right check the macro with the <code>Bread Icon</code>. Compare it to the newest version on nexusmods to see if you have the current one.
+> You can always view your current version of the config by opening the macro menu 
+> <code>ALT + U</code> go to the <code>Shared Tab</code> and in the bottom right check the macro with the <code>Bread Icon</code>. Compare the version number to the newest version on nexusmods to see if you have the most current one.
 </details>
 
 > <details><br>
