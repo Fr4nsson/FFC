@@ -95,6 +95,13 @@ Below is the currently used jobs, what information they contain in the database 
 ## Frequently Asked Questions (FAQ) <sup>[⮝][index]</sup>
 
 > <details>
+> <summary>What version am I using?</summary>
+> <p></p>
+> You can always view your current version of the config by opening the macro menu by pressing 
+> <code>ALT + U</code> go to the <code>Shared Tab</code> and in the bottom right check the macro with the <code>Bread Icon</code>. Compare it to the newest version on nexusmods to see if you have the current one.
+> </details>
+
+> <details>
 > <summary>I've added the Sage and/or Reaper to the menu but it doesn't save, every time I switch it reverts back</summary>
 > <p></p>
 > If you want to include Sage in the custom menu you need to
@@ -106,7 +113,13 @@ Below is the currently used jobs, what information they contain in the database 
 > 
 > For Reaper you will follow the exact steps above, just replace <code>Alchemist</code> with <code>Fisher</code>. 
 > 
-> To do this in pvp-areas, tp to <code>Wolves' Den Pier</code> and follow the exact steps above but replace <code>Alchemist</code> with <code>Black Mage (Healer)</code> & > <code>Dancer (Dps)</code> 
+> To do this in pvp-areas, tp to <code>Wolves' Den Pier</code> and follow the exact steps above but replace <code>Alchemist</code> with <code>Black Mage (Healer)</code> & <code>Dancer (Dps)</code> 
 > 
 > For more information on how the custom menu works, see [Custom Menu](#custom-menu--).
+> </details>
+
+> <details>
+> <summary>In expandable menu, when I click on job change icon, nothing happens, whats wrong?</summary>
+> <p></p>
+> Wrong gearset name, make sure at least one of each job has a gearset with default name, for example gunbreaker gearset should be <code>GNB(ilvl)</code> If this happens in PvP areas it's because you're not currently a compatible job for PvP, i.e. professions and blue mage won't work in pvp area with custom menu since they don't have pvphotbars, switch to a compatible job by bringing up gearset menu <code>SHIFT + G</code>.
 > </details>
