@@ -20,7 +20,14 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
    1. [non-pvp](#non-pvp-areas-)
    2. [pvp](#pvp-areas-wolves-den-pier-)
 6. [Keybinds](#keybinds-)
-7. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
+   1. [inventory](#inventory-)
+   2. [mount](#mount-)
+   3. [stance & weapon](#stance--weapon-)
+   4. [marking targets](#marking-targets--combat-related-mostly-used-when-playing-as-tank-)
+   5. [chat](#chat-)
+   6. [general](#general-)
+   7. [hud](#hud-)
+8. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
 
 ## About
 
@@ -113,7 +120,7 @@ SHIFT + B           = Open character screen, armoury chest and all bags and sort
 SHIFT + I           = Open Chocobo Saddlebag
 CTRL  + I           = Armoury Chest
 ```
-#### Mounts <sup>[⮝][index]</sup>
+#### Mount <sup>[⮝][index]</sup>
 ```
 SHIFT + H           = Single Seat Mount
 CTRL  + H           = Multiple Seat Mount
