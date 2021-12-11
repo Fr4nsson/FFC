@@ -6,6 +6,7 @@
 [custom-menu-gif]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/custom-menu-trans.gif "Custom Menu"
 [install-youtube]: https://www.youtube.com/watch?v=CnjSLgj-9QE "Youtube video on how to install"
 [install-picture]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation.png "Picture on how to install"
+[comprehensive-controller-guide]: https://docs.google.com/document/d/1q_i5_X01hecbCOZOIN_71zceuSjWSuaN-OJdU6ZPV6s "Comprehensive Controller Guide"
 
 # Fr4nsson's FFXIV Config (FFC) | [Discord][discord] | [Download][download]
 A complete config for FFXIV with a clean informational HUD layout. All jobs have their spells already assigned to hotbars. No files have been modified or created by third-party applications, all the files have been created and modified by the game. This is not against [TOS][terms-of-service], it is 100% safe to use.
@@ -28,6 +29,7 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
    5. [chat](#chat-)
    6. [general](#general-)
    7. [hud](#hud-)
+8. [Controller](#controller-)
 
 ## About
 
@@ -241,8 +243,20 @@ CTRL + NUMPAD 2     = Hud Preset 2, larger
 CTRL + NUMPAD 3     = Hud Preset 3, like Hud Preset 1, gauges and hp reversed
 CTRL + NUMPAD 4     = Hud Preset 4, like Hud Preset 2, gauges and hp reversed
 ```
-<br>
-<br>
-<br>
-<br>
-<br>
+## Controller | [Comprehensive Controller Guide][comprehensive-controller-guide] <sup>[⮝][index]</sup>
+```
+Autorun
+Left Analog Stick (Move It) then press L1
+
+Sheathe/Unsheathe Weapon
+L1 + R1 or L3
+
+Sprint
+R3 or double tap L2 then Dpad Up
+
+Virtual Mouse
+L1 + R3
+
+Zoom In/Out
+L1 + Right Analog Stick (Move It)
+```
