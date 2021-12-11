@@ -6,6 +6,7 @@
 
 [general-idea]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/general-idea-trans.png "General Idea"
 [main-hotbar]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/main-hotbar-trans.png "Main Hotbar"
+[install-trans]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation-blue-trans.png "Installation"
 
 [custom-menu-gif]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/custom-menu-trans.gif "Custom Menu"
 [install-youtube]: https://www.youtube.com/watch?v=CnjSLgj-9QE "Youtube video on how to install"
@@ -71,6 +72,8 @@ Obviously not everyone might like the layout or the keybinds, there may also be 
 6. Extract <code>FFXIV.cfg</code> and <code>MACROSYS.dat</code> into <code>FINAL FANTASY XIV - A Realm Reborn</code> folder and replace when prompted.
 7. Extract files INSIDE of <code>CharacterData</code> into each folder starting with <code>FFXIV_CHR</code> and replace when prompted.
 8. Done
+
+![Installation][install-trans]
 
 ## What each files does <sup>[⮝][index]</sup>
 <pre>
