@@ -130,7 +130,7 @@ If you want to include Sage in the custom menu you need to
 
 1. Switch to job <code>Alchemist</code> (Alchemist job holds database information regarding healer jobs in non-pvp areas)
 2. Press <code>9</code> a new hotbar will appear in the top center of the screen
-3. Press <code>SHIFT+G</code> to bring up your gearsets, and drag the sage gearset onto the top center hotbar
+3. Press <code>SHIFT + G</code> to bring up your gearsets, and drag the sage gearset onto the top center hotbar
 4. Press <code>9</code> again to toggle the visibility of the top center hotbar
 
 For Reaper you will follow the exact steps above, just replace <code>Alchemist</code> with <code>Fisher</code>. 
@@ -142,7 +142,11 @@ For more information on how the custom menu works, see [Custom Menu](#custom-men
 
 <details><p></p>
 <summary>In expandable menu, when I click on job change icon, nothing happens, whats wrong?</summary>
-Wrong gearset name, make sure at least one of each job has a gearset with default name, for example gunbreaker gearset should be <code>GNB(ilvl)</code> If this happens in PvP areas it's because you're not currently a compatible job for PvP, i.e. professions and blue mage won't work in pvp area with custom menu since they don't have pvphotbars, switch to a compatible job by bringing up gearset menu <code>SHIFT + G</code>.
+Wrong gearset name, make sure at least one of each job has a gearset with default name, gunbreaker gearset should be <code>GNB(ilvl)</code> for example.<p></p>
+
+If this happens in PvP areas it's because you're not currently a compatible job for PvP, i.e. professions and blue mage won't work in pvp area with custom menu since they don't have pvphotbars. 
+
+Switch to a compatible job by bringing up gearset menu <code>SHIFT + G</code>.
 <br><br><br><br><br><br></details>
 
 ## Keybinds <sup>[⮝][index]</sup>
