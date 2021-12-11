@@ -29,7 +29,7 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
    5. [chat](#chat-)
    6. [general](#general-)
    7. [hud](#hud-)
-8. [Controller](#controller-)
+8. [Controller](#controller--comprehensive-controller-guide-)
 
 ## About
 
