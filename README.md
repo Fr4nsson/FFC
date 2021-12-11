@@ -19,7 +19,8 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
 5. [Custom Menu](#custom-menu--)
    1. [non-pvp](#non-pvp-areas-)
    2. [pvp](#pvp-areas-wolves-den-pier-)
-6. [Keybinds](#keybinds-)
+6. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
+7. [Keybinds](#keybinds-)
    1. [inventory](#inventory-)
    2. [mount](#mount-)
    3. [stance & weapon](#stance--weapon-)
@@ -27,7 +28,6 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
    5. [chat](#chat-)
    6. [general](#general-)
    7. [hud](#hud-)
-8. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
 
 ## About
 
@@ -110,6 +110,40 @@ Below is the currently used jobs, what information they contain in the database 
 | Dancer        | Dps         | Shall We Dance           | Eager Lominsan  | Limsa Lominsa Lower Decks (x9.8,y12.0) |
 | Red Mage      | Tank        | Taking the Red           | Distraught Lass | Ul'dah - Steps of Thal (x14.1,y11.7)   |
 | Black Mage    | Healer      | Way of the Thaumaturge   | Yayake          | Ul'dah - Steps of Nald (x7.3,y12.4)    |
+
+## Frequently Asked Questions (FAQ) <sup>[⮝][index]</sup>
+
+> <details><br>
+> <summary>What version am I using?</summary>
+> You can always view your current version of the config by opening the macro menu 
+> <code>ALT + U</code> go to the <code>Shared Tab</code> and in the bottom right check the macro with the <code>Bread Icon</code>. Compare the version number to the newest version on nexusmods to see if you have the most current one.
+</details>
+
+> <details><br>
+> <summary>Is this against TOS? can I get banned for using this?</summary>
+> No, this is not even a mod, it's only a config so it is 100% safe to use. There is no external files added, all the files have been created by the game and modified by the game. No files have been modified or created by third-party applications.
+</details>
+
+> <details><br>
+> <summary>I've added the Sage and/or Reaper to the menu but it doesn't save, every time I switch it reverts back</summary>
+> If you want to include Sage in the custom menu you need to
+> 
+> 1. Switch to job <code>Alchemist</code> (Alchemist job holds database information regarding healer jobs in non-pvp areas)
+> 2. Press <code>9</code> a new hotbar will appear in the top center of the screen
+> 3. Press <code>SHIFT+G</code> to bring up your gearsets, and drag the sage gearset onto the top center hotbar
+> 4. Press <code>9</code> again to toggle the visibility of the top center hotbar
+> 
+> For Reaper you will follow the exact steps above, just replace <code>Alchemist</code> with <code>Fisher</code>. 
+> 
+> To do this in pvp-areas, tp to <code>Wolves' Den Pier</code> and follow the exact steps above but replace <code>Alchemist</code> with <code>Black Mage (Healer)</code> & <code>Dancer (Dps)</code> 
+> 
+> For more information on how the custom menu works, see [Custom Menu](#custom-menu--).
+</details>
+
+> <details><br>
+> <summary>In expandable menu, when I click on job change icon, nothing happens, whats wrong?</summary>
+> Wrong gearset name, make sure at least one of each job has a gearset with default name, for example gunbreaker gearset should be <code>GNB(ilvl)</code> If this happens in PvP areas it's because you're not currently a compatible job for PvP, i.e. professions and blue mage won't work in pvp area with custom menu since they don't have pvphotbars, switch to a compatible job by bringing up gearset menu <code>SHIFT + G</code>.
+</details>
 
 ## Keybinds <sup>[⮝][index]</sup>
 
@@ -203,37 +237,8 @@ CTRL + NUMPAD 2     = Hud Preset 2, larger
 CTRL + NUMPAD 3     = Hud Preset 3, like Hud Preset 1, gauges and hp reversed
 CTRL + NUMPAD 4     = Hud Preset 4, like Hud Preset 2, gauges and hp reversed
 ```
-
-## Frequently Asked Questions (FAQ) <sup>[⮝][index]</sup>
-
-> <details><br>
-> <summary>What version am I using?</summary>
-> You can always view your current version of the config by opening the macro menu 
-> <code>ALT + U</code> go to the <code>Shared Tab</code> and in the bottom right check the macro with the <code>Bread Icon</code>. Compare the version number to the newest version on nexusmods to see if you have the most current one.
-</details>
-
-> <details><br>
-> <summary>Is this against TOS? can I get banned for using this?</summary>
-> No, this is not even a mod, it's only a config so it is 100% safe to use. There is no external files added, all the files have been created by the game and modified by the game. No files have been modified or created by third-party applications.
-</details>
-
-> <details><br>
-> <summary>I've added the Sage and/or Reaper to the menu but it doesn't save, every time I switch it reverts back</summary>
-> If you want to include Sage in the custom menu you need to
-> 
-> 1. Switch to job <code>Alchemist</code> (Alchemist job holds database information regarding healer jobs in non-pvp areas)
-> 2. Press <code>9</code> a new hotbar will appear in the top center of the screen
-> 3. Press <code>SHIFT+G</code> to bring up your gearsets, and drag the sage gearset onto the top center hotbar
-> 4. Press <code>9</code> again to toggle the visibility of the top center hotbar
-> 
-> For Reaper you will follow the exact steps above, just replace <code>Alchemist</code> with <code>Fisher</code>. 
-> 
-> To do this in pvp-areas, tp to <code>Wolves' Den Pier</code> and follow the exact steps above but replace <code>Alchemist</code> with <code>Black Mage (Healer)</code> & <code>Dancer (Dps)</code> 
-> 
-> For more information on how the custom menu works, see [Custom Menu](#custom-menu--).
-</details>
-
-> <details><br>
-> <summary>In expandable menu, when I click on job change icon, nothing happens, whats wrong?</summary>
-> Wrong gearset name, make sure at least one of each job has a gearset with default name, for example gunbreaker gearset should be <code>GNB(ilvl)</code> If this happens in PvP areas it's because you're not currently a compatible job for PvP, i.e. professions and blue mage won't work in pvp area with custom menu since they don't have pvphotbars, switch to a compatible job by bringing up gearset menu <code>SHIFT + G</code>.
-</details>
+<br>
+<br>
+<br>
+<br>
+<br>
