@@ -3,6 +3,10 @@
 [terms-of-service]: https://support.na.square-enix.com/rule.php?id=5382&la=1 "Terms of service"
 [discord]: https://discord.gg/7TJG9H8Xyf "Join us on Discord"
 [download]: https://www.nexusmods.com/finalfantasy14/mods/1054?tab=files "Download on nexusmods.com"
+
+[general-idea]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/general-idea-trans.png "General Idea"
+[main-hotbar]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/main-hotbar-trans.png "Main Hotbar"
+
 [custom-menu-gif]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/custom-menu-trans.gif "Custom Menu"
 [install-youtube]: https://www.youtube.com/watch?v=CnjSLgj-9QE "Youtube video on how to install"
 [install-picture]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation.png "Picture on how to install"
@@ -14,14 +18,16 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
 ## Index
 
 1. [About](#about)
-2. [Backup](#backup-)
-3. [Installation](#installation--youtube--picture-)
-4. [What each files does](#what-each-files-does-)
-5. [Custom Menu](#custom-menu--)
+2. [Main Hotbar](#main-hotbar-)
+3. [General Idea](#general-idea-)
+4. [Backup](#backup-)
+5. [Installation](#installation--youtube--picture-)
+6. [What each files does](#what-each-files-does-)
+7. [Custom Menu](#custom-menu--)
    1. [non-pvp](#non-pvp-areas-)
    2. [pvp](#pvp-areas-wolves-den-pier-)
-6. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
-7. [Keybinds](#keybinds-)
+8. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
+9. [Keybinds](#keybinds-)
    1. [inventory](#inventory-)
    2. [mount](#mount-)
    3. [stance & weapon](#stance--weapon-)
@@ -29,7 +35,7 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
    5. [chat](#chat-)
    6. [general](#general-)
    7. [hud](#hud-)
-8. [Controller](#controller--comprehensive-controller-guide-)
+10. [Controller](#controller--comprehensive-controller-guide-)
 
 ## About
 
@@ -37,7 +43,13 @@ This is a complete config for FFXIV that I've been working on for a very long ti
 
 When you take all that into consideration it is not something that is easily done or something that you'd manage to do right away, it would take a lot of trial and error and you would change binds over time. I've done that journey for you so you can focus on playing the game instead. If you're one that likes to fiddle around with hud and keybinds and find enjoyment in that, like I do, this is probably not for you. This is for the people that don't wanna deal with that.
 
-Obviously not everyone might like the layout or the keybinds, there may also be some stuff that I've missed or some spells that would fit better in a different slot. This is a work in progress after all. If you have any suggestions for improvements, feel free to post it.
+Obviously not everyone might like the layout or the keybinds, there may also be some stuff that I've missed or some spells that would fit better in a different slot. This is a work in progress after all. If you have any suggestions for improvements, feel free to post it in [discord][discord].
+
+## Main Hotbar <sup>[⮝][index]</sup>
+![main-hotbar][main-hotbar]
+
+## General Idea <sup>[⮝][index]</sup>
+![general-idea][general-idea]
 
 ## Backup <sup>[⮝][index]</sup>
 1. Make sure the game is not running! 
