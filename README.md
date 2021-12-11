@@ -6,7 +6,7 @@
 
 [general-idea]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/general-idea-trans.png "General Idea"
 [main-hotbar]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/main-hotbar-trans.png "Main Hotbar"
-[install-trans]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation-bluer-trans.png "Installation"
+[install-trans]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation-blue-trans.png "Installation"
 
 [custom-menu-gif]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/custom-menu-trans.gif "Custom Menu"
 [install-youtube]: https://www.youtube.com/watch?v=CnjSLgj-9QE "Youtube video on how to install"
