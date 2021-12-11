@@ -19,7 +19,8 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
 5. [Custom Menu](#custom-menu--)
    1. [non-pvp](#non-pvp-areas-)
    2. [pvp](#pvp-areas-wolves-den-pier-)
-6. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
+6. [Keybinds](#keybinds-)
+7. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
 
 ## About
 
@@ -102,6 +103,99 @@ Below is the currently used jobs, what information they contain in the database 
 | Dancer        | Dps         | Shall We Dance           | Eager Lominsan  | Limsa Lominsa Lower Decks (x9.8,y12.0) |
 | Red Mage      | Tank        | Taking the Red           | Distraught Lass | Ul'dah - Steps of Thal (x14.1,y11.7)   |
 | Black Mage    | Healer      | Way of the Thaumaturge   | Yayake          | Ul'dah - Steps of Nald (x7.3,y12.4)    |
+
+## Keybinds <sup>[⮝][index]</sup>
+
+#### Inventory <sup>[⮝][index]</sup>
+```
+I                   = Open all bags
+SHIFT + B           = Open character screen, armoury chest and all bags and sort them (I mostly use this one)
+SHIFT + I           = Open Chocobo Saddlebag
+CTRL  + I           = Armoury Chest
+```
+#### Mounts <sup>[⮝][index]</sup>
+```
+SHIFT + H           = Single Seat Mount
+CTRL  + H           = Multiple Seat Mount
+```
+#### Stance & Weapon <sup>[⮝][index]</sup>
+```
+Z                   = Sheathe/Unsheathe Weapon
+SHIFT + Z           = Change stance (Try it when holding a weapon, sitting or just standing with weapon sheathed)
+```
+#### Marking Targets / Combat Related (Mostly used when playing as Tank) <sup>[⮝][index]</sup>
+```
+ALT   + 1           = Mark primary target to attack
+ALT   + 2           = Mark secondary target to attack
+ALT   + X           = Mark target to ignore
+ALT   + F           = Set Focus Target
+ALT   + R           = Ready Check
+ALT   + C           = Countdown
+CTRL  + M           = Waymark Menu
+SHIFT + M           = Signs Menu
+```
+#### Chat <sup>[⮝][index]</sup>
+```
+ALT   + S           = Switch chat mode to Say
+ALT   + Y           = Switch chat mode to Yell
+CTRL  + Y           = Temporarily switch chat mode to Shout
+ALT   + P           = Switch chat mode to Party
+ALT   + A           = Switch chat mode to Alliance / Raid
+ALT   + G           = Switch chat mode to Free Company / Guild
+```
+#### General <sup>[⮝][index]</sup>
+```
+8                   = Toggle Keybind bar
+9                   = Toggle Database bar
+L                   = Limit Break
+Mouse5              = Confirm (Used to spam through dialog or spam it when turning in items for seals at GC) 
+NUMPAD 0            = Confirm (Used to spam through dialog or spam it when turning in items for seals at GC)
+Mouse4              = Cancel
+Mouse3              = Auto-run
+NUMPAD 1            = Toggle spell effects/names
+NUMPAD 2            = Toggle spell effects/names
+NUMPAD 3            = Toggle spell effects/names
+NUMPAD 4            = Toggle spell effects/names
+NUMPAD 5            = Toggle spell effects/names
+INSERT              = Toggle spell effects/names, preset 1 (all)
+DELETE              = Toggle spell effects/names, preset 3 (limited)
+HOME                = Return
+CTRL + HOME         = Return (Eternity Ring)
+END                 = Teleport Menu
+Print Screen        = Screenshot
+ALT + U             = Macro Menu
+ALT + NUMPAD PLUS   = Continuously increase volume until stopped by pressing NUMPAD -
+NUMPAD -            = Stop volume increase (Macro cancel)
+NUMPAD +            = Toggle Master Volume On/Off
+NUMPAD *            = Helm Visor
+NUMPAD /            = RP Walk
+SHIFT + ENTER       = Chat fullscreen
+SHIFT + G           = Gear sets
+G                   = Free Company / Guild Menu
+H                   = Housing Menu
+J                   = Journal / Quest Log
+K                   = Key items
+O                   = Friend list
+SHIFT + O           = Party Members
+CTRL  + O           = Party Finder
+CTRL  + L           = Cross-world Linkshells
+U                   = Duty Finder
+P                   = Spells
+SHIFT + P           = PvP Spells
+, (comma)           = Currency
+. (dot)             = Challenge Log
+```
+#### Hud <sup>[⮝][index]</sup>
+```
+Scroll Lock         = Toggle visibility for ALL hud elements (Nice for screenshots)
+SHIFT + Scroll Lock = Toggle visibility on some hud elements (Clean Hud)
+Arrow Keys          = Select a hud element in hud editor and use key to move hud element by pixel
+CTRL + NUMPAD 0     = Toggle Hud Editor
+CTRL + NUMPAD 1     = Hud Preset 1, config default (The one I play with)
+CTRL + NUMPAD 2     = Hud Preset 2, larger
+CTRL + NUMPAD 3     = Hud Preset 3, like Hud Preset 1, gauges and hp reversed
+CTRL + NUMPAD 4     = Hud Preset 4, like Hud Preset 2, gauges and hp reversed
+```
 
 ## Frequently Asked Questions (FAQ) <sup>[⮝][index]</sup>
 
