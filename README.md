@@ -4,9 +4,9 @@
 [discord]: https://discord.gg/7TJG9H8Xyf "Join us on Discord"
 [download]: https://www.nexusmods.com/finalfantasy14/mods/1054?tab=files "Download on nexusmods.com"
 
-[general-idea]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/general-idea-trans.png "General Idea"
-[main-hotbar]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/main-hotbar-trans.png "Main Hotbar"
-[install-trans]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation-blue-trans.png "Installation"
+[general-idea]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/general-idea.png "General Idea"
+[main-hotbar]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/main-hotbar.png "Main Hotbar"
+[install-trans]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation.png "Installation"
 
 [custom-menu-gif]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/custom-menu-trans.gif "Custom Menu"
 [install-youtube]: https://www.youtube.com/watch?v=CnjSLgj-9QE "Youtube video on how to install"
