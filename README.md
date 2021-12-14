@@ -24,7 +24,7 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
 4. [Backup](#backup-)
 5. [Installation](#installation--youtube--picture-)
 6. [What each files does](#what-each-files-does-)
-7. [Custom Menu](#custom-menu--)
+7. [Custom Menu](#custom-menu-)
    1. [non-pvp](#non-pvp-areas-)
    2. [pvp](#pvp-areas-wolves-den-pier-)
 8. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
