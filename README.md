@@ -8,7 +8,7 @@
 [main-hotbar]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/main-hotbar.png "Main Hotbar"
 [install-trans]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation.png "Installation"
 
-[custom-menu-gif]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/custom-menu-trans.gif "Custom Menu"
+[custom-menu-gif]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/custom-menu.gif "Custom Menu"
 [install-youtube]: https://www.youtube.com/watch?v=CnjSLgj-9QE "Youtube video on how to install"
 [install-picture]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation.png "Picture on how to install"
 [comprehensive-controller-guide]: https://docs.google.com/document/d/1q_i5_X01hecbCOZOIN_71zceuSjWSuaN-OJdU6ZPV6s "Comprehensive Controller Guide"
@@ -93,7 +93,9 @@ Fr4nsson's FFXIV Config.zip
    |- MACRO.DAT    : Macros (Individual Tab).
 </pre>
 
-## Custom Menu <sup>[⮝][index]</sup> ![][custom-menu-gif]
+## Custom Menu <sup>[⮝][index]</sup>
+![][custom-menu-gif]
+
 The menu works by using jobs as a database and then assigning items, macros or gearsets to a hidden hotbar you normally don't use so if you want to change what appears in the menu you'll have to unlock some jobs. You don't need to grab the jobs in order to use the menu, you only need to do that in order to edit the menu. 
 
 The logic behind the menu can be found under <code>ALT + U -> Shared Tab</code>
