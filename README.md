@@ -87,20 +87,22 @@ You need to buy at least starter edition on pc (yes, even if you have already bo
 5. [Download][download] and install the correct resolution config from nexusmods.
 6. Log back in on any character that you logged into in <code>step 3</code> and verify that the config did install correctly.
 7. Log out to the character screen (Do not exit game).
-8. On the character screen, click the cog wheel in the top right corner <code>Back Up Client Settings</code>.
-   * Choose <code>Proceed</code>, <code>Upload</code>, <code>Ok</code>. You will get a message saying <code>Client Settings data saved to the server</code>.
-9. On the character screen, click the cog wheel in the top right corner next to character <code>Back Up Character Settings</code>
-    * Choose <code>Proceed</code>, <code>Upload</code>, <code>Ok</code>. You will get a message saying <code>Character Settings for X successfully uploaded to the server</code>.
+8. On the character screen, click the cog wheel in the top right corner <code>Back Up CLIENT Settings</code>.
+   * Choose <code>Proceed</code>, <code>Upload</code>, <code>Ok</code>.
+   * You will get a message saying _Client Settings data saved to the server_.
+9. On the character screen, click the cog wheel in the top right corner next to character <code>Back Up CHARACTER Settings</code>
+   * Choose <code>Proceed</code>, <code>Upload</code>, <code>Ok</code>.
+   * You will get a message saying _Character Settings for X successfully uploaded to the server_.
 10. Repeat <code>step 9</code> on each character you want the config on.
 11. PC done, go to your console and follow the rest of the steps below.
 
 ![Character Screen][install-console-char-screen]
 
 #### What to do on console
-1. On the character screen, click the cog wheel in the top right corner <code>Back Up Client Settings</code>.
+1. On the character screen, click the cog wheel in the top right corner <code>Back Up CLIENT Settings</code>.
    * Choose <code>Proceed</code>, <code>Download</code>, <code>Ok</code>.
    * Please note that on console you choose download and not upload.
-2. On the character screen, click the cog wheel in the top right corner next to character <code>Back Up Character Settings</code>.
+2. On the character screen, click the cog wheel in the top right corner next to character <code>Back Up CHARACTER Settings</code>.
    * Choose <code>Proceed</code>, <code>Download</code>, <code>Ok</code>.
    * Please note that on console you choose download and not upload.
 3. Repeat <code>step 2</code> on each character you want the config on.
