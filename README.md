@@ -206,6 +206,7 @@ CTRL  + Y           = Temporarily switch chat mode to Shout
 ALT   + P           = Switch chat mode to Party
 ALT   + A           = Switch chat mode to Alliance / Raid
 ALT   + G           = Switch chat mode to Free Company / Guild
+SHIFT + ENTER       = Chat fullscreen
 ```
 #### General <sup>[⮝][index]</sup>
 ```
@@ -233,7 +234,6 @@ NUMPAD -            = Stop volume increase (Macro cancel)
 NUMPAD +            = Toggle Master Volume On/Off
 NUMPAD *            = Helm Visor
 NUMPAD /            = RP Walk
-SHIFT + ENTER       = Chat fullscreen
 SHIFT + G           = Gear sets
 G                   = Free Company / Guild Menu
 H                   = Housing Menu
