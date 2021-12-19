@@ -22,13 +22,14 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
 2. [Main Hotbar](#main-hotbar-)
 3. [General Idea](#general-idea-)
 4. [Backup](#backup-)
-5. [Installation](#installation--youtube--picture-)
-6. [What each files does](#what-each-files-does-)
-7. [Custom Menu](#custom-menu-)
+5. [Installation (PC)](#installation-pc--youtube--picture-)
+6. [Installation (Console)](#installation-console-)
+7. [What each files does](#what-each-files-does-)
+8. [Custom Menu](#custom-menu-)
    1. [non-pvp](#non-pvp-areas-)
    2. [pvp](#pvp-areas-wolves-den-pier-)
-8. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
-9. [Keybinds](#keybinds-)
+9. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
+10. [Keybinds](#keybinds-)
    1. [inventory](#inventory-)
    2. [mount](#mount-)
    3. [stance & weapon](#stance--weapon-)
@@ -36,7 +37,7 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
    5. [chat](#chat-)
    6. [general](#general-)
    7. [hud](#hud-)
-10. [Controller](#controller--comprehensive-controller-guide-)
+11. [Controller](#controller--comprehensive-controller-guide-)
 
 ## About
 
@@ -62,18 +63,47 @@ Obviously not everyone might like the layout or the keybinds, there may also be 
    <code>FFXIV_CHR</code> folders
 5. Done
 
-## Installation | [Youtube][install-youtube] | [Picture][install-picture] <sup>[⮝][index]</sup>
+## Installation (PC) | [Youtube][install-youtube] | [Picture][install-picture] <sup>[⮝][index]</sup>
 1. Make sure the game is not running! 
 2. [Backup](#backup-) your current config, installing this config will overwrite almost everything you have.
-3. [Download][download] the correct resolution config
+3. [Download][download] the correct resolution config from nexusmods.
 4. Navigate to your ffxiv config location on your computer, it is usually under<br>
   <code>Documents\My Games\FINAL FANTASY XIV - A Realm Reborn</code>
-5. Open the zip file you downloaded 
+5. Open the zip file you downloaded.
 6. Extract <code>FFXIV.cfg</code> and <code>MACROSYS.dat</code> into <code>FINAL FANTASY XIV - A Realm Reborn</code> folder and replace when prompted.
 7. Extract files INSIDE of <code>CharacterData</code> into each folder starting with <code>FFXIV_CHR</code> and replace when prompted.
-8. Done
+8. Done.
 
 ![Installation][install-trans]
+
+## Installation (Console) <sup>[⮝][index]</sup>
+You need to buy at least starter edition on pc (yes, even if you have already bought a license on console) and follow the steps below
+#### What to do on pc
+1. Buy at least starter edition on pc (for the same account you use for the console).
+2. Install the game.
+3. Completely log into the character(s) you want the config on.
+4. Completely exit the game.
+5. [Download][download] and install the correct resolution config from nexusmods.
+6. Log back in on any character that you logged into in <code>step 3</code> and verify that the config did install correctly.
+7. Log out to the character screen (Do not exit game).
+8. On the character screen, click the cog wheel in the top right corner <code>Back Up Client Settings</code>.
+9. Choose <code>Proceed</code>, <code>Upload</code>, <code>Ok</code>. You will get a message saying <code>Client Settings data saved to the server</code> if done successfully.
+10. Repeat <code>step 11</code> and <code>12</code> on each character you want the config on.
+11. On the character screen, click the cog wheel in the top right corner next to each character <code>Back Up Character Settings</code>
+12. Choose <code>Proceed</code>, <code>Upload</code>, <code>Ok</code>. You will get a message saying <code>Character Settings for X successfully uploaded to the server</code> if done successfully.
+13. PC done, go to your console.
+   
+#### What to do on console
+1. On the character screen, click the cog wheel in the top right corner <code>Back Up Client Settings</code>.
+2. Choose <code>Proceed</code>, <code>Download</code>, <code>Ok</code>. Please note that on console you choose download and not upload.
+3. On the character screen, click the cog wheel in the top right corner next to each character <code>Back Up Character Settings</code>.
+4. Choose <code>Proceed</code>, <code>Download</code>, <code>Ok</code>. Please note that on console you choose download and not upload.
+5. Repeat <code>step 4</code> and <code>5</code> on each character you want the config on.
+6. On the character screen, click the cog wheel in the top right corner next to each character 'Back Up Character Settings'.
+7. Choose <code>Proceed</code>, <code>Download</code>, <code>Ok</code>.
+8. Restart the game.
+9. Log back in on any character that you downloaded the config to in step <code>4</code> and <code>5</code> and verify that the config did install correctly.
+10. Done.
 
 ## What each files does <sup>[⮝][index]</sup>
 <pre>
@@ -141,6 +171,12 @@ You can always view your current version of the config by opening the macro menu
 <details><p></p>
 <summary>Is this against TOS? can I get banned for using this?</summary>
 No, this is not even a mod, it's only a config so it is 100% safe to use. There is no external files added, all the files have been created by the game and modified by the game. No files have been modified or created by third-party applications.
+<br><br><br><br><br><br></details>
+
+<details><p></p>
+<summary>Does this config work on console, PS4, PS5 etc?</summary>
+Yes it does, see <a href="https://github.com/Fr4nsson/FFXIV-Config/blob/main/README.md#installation-console-">Installation (Console)</a>. 
+   
 <br><br><br><br><br><br></details>
 
 <details><p></p>
