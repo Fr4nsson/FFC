@@ -98,7 +98,7 @@ You need to buy at least starter edition on pc (yes, even if you have already bo
 2. Choose <code>Proceed</code>, <code>Download</code>, <code>Ok</code>. Please note that on console you choose download and not upload.
 3. On the character screen, click the cog wheel in the top right corner next to each character <code>Back Up Character Settings</code>.
 4. Choose <code>Proceed</code>, <code>Download</code>, <code>Ok</code>. Please note that on console you choose download and not upload.
-5. Repeat <code>step 4</code> and <code>5</code> on each character you want the config on.
+5. Repeat <code>step 6</code> and <code>7</code> on each character you want the config on.
 6. On the character screen, click the cog wheel in the top right corner next to each character 'Back Up Character Settings'.
 7. Choose <code>Proceed</code>, <code>Download</code>, <code>Ok</code>.
 8. Restart the game.
