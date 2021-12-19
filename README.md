@@ -7,6 +7,7 @@
 [general-idea]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/general-idea.png "General Idea"
 [main-hotbar]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/main-hotbar.png "Main Hotbar"
 [install-trans]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/installation.png "Installation"
+[install-console-char-screen]: https://raw.githubusercontent.com/Fr4nsson/FFXIV-Config/main/images/installation_console_character_screen.png "Character Screen"
 
 [custom-menu-gif]: https://github.com/Fr4nsson/FFXIV-Config/raw/main/images/custom-menu.gif "Custom Menu"
 [install-youtube]: https://www.youtube.com/watch?v=CnjSLgj-9QE "Youtube video on how to install"
@@ -92,7 +93,9 @@ You need to buy at least starter edition on pc (yes, even if you have already bo
 11. Choose <code>Proceed</code>, <code>Upload</code>, <code>Ok</code>. You will get a message saying <code>Character Settings for X successfully uploaded to the server</code> if done successfully.
 12. Repeat <code>step 10</code> and <code>11</code> on each character you want the config on.
 13. PC done, go to your console.
-   
+
+![Character Screen][install-console-char-screen]
+
 #### What to do on console
 1. On the character screen, click the cog wheel in the top right corner <code>Back Up Client Settings</code>.
 2. Choose <code>Proceed</code>, <code>Download</code>, <code>Ok</code>. Please note that on console you choose download and not upload.
