@@ -88,23 +88,28 @@ You need to buy at least starter edition on pc (yes, even if you have already bo
 6. Log back in on any character that you logged into in <code>step 3</code> and verify that the config did install correctly.
 7. Log out to the character screen (Do not exit game).
 8. On the character screen, click the cog wheel in the top right corner <code>Back Up Client Settings</code>.
-9. Choose <code>Proceed</code>, <code>Upload</code>, <code>Ok</code>. You will get a message saying <code>Client Settings data saved to the server</code> if done successfully.
-10. On the character screen, click the cog wheel in the top right corner next to each character <code>Back Up Character Settings</code>
-11. Choose <code>Proceed</code>, <code>Upload</code>, <code>Ok</code>. You will get a message saying <code>Character Settings for X successfully uploaded to the server</code> if done successfully.
-12. Repeat <code>step 10</code> and <code>11</code> on each character you want the config on.
-13. PC done, go to your console.
+   * Choose <code>Proceed</code>, <code>Upload</code>, <code>Ok</code>. You will get a message saying <code>Client Settings data saved to the server</code>.
+9. On the character screen, click the cog wheel in the top right corner next to character <code>Back Up Character Settings</code>
+    * Choose <code>Proceed</code>, <code>Upload</code>, <code>Ok</code>. You will get a message saying <code>Character Settings for X successfully uploaded to the server</code>.
+10. Repeat <code>step 9</code> on each character you want the config on.
+11. PC done, go to your console and follow the rest of the steps below.
 
 ![Character Screen][install-console-char-screen]
 
 #### What to do on console
 1. On the character screen, click the cog wheel in the top right corner <code>Back Up Client Settings</code>.
-2. Choose <code>Proceed</code>, <code>Download</code>, <code>Ok</code>. Please note that on console you choose download and not upload.
-3. On the character screen, click the cog wheel in the top right corner next to character <code>Back Up Character Settings</code>.
-4. Choose <code>Proceed</code>, <code>Download</code>, <code>Ok</code>. Please note that on console you choose download and not upload.
-5. Repeat <code>step 3</code> and <code>4</code> on each character you want the config on.
-6. Restart the game.
-7. Log back in on any character that you downloaded the config to in step <code>4</code> and <code>5</code> and verify that the config did install correctly.
-8. Done.
+   * Choose <code>Proceed</code>, <code>Download</code>, <code>Ok</code>.
+   * Please note that on console you choose download and not upload.
+2. On the character screen, click the cog wheel in the top right corner next to character <code>Back Up Character Settings</code>.
+   * Choose <code>Proceed</code>, <code>Download</code>, <code>Ok</code>.
+   * Please note that on console you choose download and not upload.
+3. Repeat <code>step 2</code> on each character you want the config on.
+4. Restart the game.
+5. Log back in on any character that you downloaded the config to in step <code>2</code> and verify that the config did install correctly.
+6. Done.
+
+- [ ] Test
+- [x] Test2
 
 ## What each files does <sup>[⮝][index]</sup>
 <pre>
