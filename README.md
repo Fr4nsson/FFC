@@ -73,7 +73,7 @@ Obviously not everyone might like the layout or the keybinds, there may also be 
 5. Open the zip file you downloaded.
 6. Extract <code>FFXIV.cfg</code> and <code>MACROSYS.dat</code> into <code>FINAL FANTASY XIV - A Realm Reborn</code> folder and replace when prompted.
 7. Extract files INSIDE of <code>CharacterData</code> into each folder starting with <code>FFXIV_CHR</code> and replace when prompted.
-8. Done.
+8. Done. :tada:
 
 ![Installation][install-trans]
 
@@ -108,7 +108,7 @@ You need to buy at least starter edition on pc (yes, even if you have already bo
 3. Repeat <code>step 2</code> on each character you want the config on.
 4. Restart the game.
 5. Log back in on any character that you downloaded the config to in step <code>2</code> and verify that the config did install correctly.
-6. Done.
+6. Done. :tada:
 
 ## What each files does <sup>[⮝][index]</sup>
 <pre>
