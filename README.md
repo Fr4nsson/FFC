@@ -108,9 +108,6 @@ You need to buy at least starter edition on pc (yes, even if you have already bo
 5. Log back in on any character that you downloaded the config to in step <code>2</code> and verify that the config did install correctly.
 6. Done.
 
-- [ ] Test
-- [x] Test2
-
 ## What each files does <sup>[⮝][index]</sup>
 <pre>
 Fr4nsson's FFXIV Config.zip
