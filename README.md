@@ -85,16 +85,17 @@ You need to buy at least starter edition on pc (yes, even if you have already bo
 3. Completely log into the character(s) you want the config on.
 4. Completely exit the game.
 5. [Download][download] and install the correct resolution config from nexusmods.
-6. Log back in on any character that you logged into in <code>step 3</code> and verify that the config did install correctly.
-7. Log out to the character screen (Do not exit game).
-8. On the character screen, click the cog wheel in the top right corner <code>Back Up CLIENT Settings</code>.
+   * See section [Installation (PC)](#installation-pc--youtube--picture-) on how to install for PC.
+7. Log back in on any character that you logged into in <code>step 3</code> and verify that the config did install correctly.
+8. Log out to the character screen (Do not exit game).
+9. On the character screen, click the cog wheel in the top right corner <code>Back Up CLIENT Settings</code>.
    * Choose <code>Proceed</code>, <code>Upload</code>, <code>Ok</code>.
    * You will get a message saying _Client Settings data saved to the server_.
-9. On the character screen, click the cog wheel in the top right corner next to character <code>Back Up CHARACTER Settings</code>
+10. On the character screen, click the cog wheel in the top right corner next to character <code>Back Up CHARACTER Settings</code>
    * Choose <code>Proceed</code>, <code>Upload</code>, <code>Ok</code>.
    * You will get a message saying _Character Settings for X successfully uploaded to the server_.
-10. Repeat <code>step 9</code> on each character you want the config on.
-11. PC done, go to your console and follow the rest of the steps below.
+11. Repeat <code>step 9</code> on each character you want the config on.
+12. PC done, go to your console and follow the rest of the steps below.
 
 ![Character Screen][install-console-char-screen]
 
