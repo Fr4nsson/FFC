@@ -1,1 +1,18 @@
-asdf 1
+CHANGELOG 2.3
+
+Spell layout changed on all jobs except paladin
+Spell layout changed on all professions
+Spell layout changed on some jobs in PvP
+Spell layout added for Reaper & gauges positioned accordingly both for pvp and non-pvp
+Spell layout added for Sage & gauges positioned accordingly both for pvp and non-pvp
+
+Adjusted alliance hud, previously it was blocked by pet summoned by player.
+
+Bug fix for expand button on custom menu not working in pvp areas (dancer1 -> dancer 1 faulty macro).
+
+Adjusted hotbar order, previously the main hotbar was comprised of hotbar 2,3,4, now it is hotbar 1,2,3. This change will allow spells from mounts or when playing as npc to be automatically positioned into hotbar 1.
+
+Keybinds and macros updated to work with the adjusted hotbar order.
+
+What won't be in the update
+Anything regarding controllers, it will be the same as in V2.2. I will have to update this some other time since I don't play with controllers myself and thus I find it hard to make an update. If someone wants to take this task on feel free to message me about it, if not I will have to wait until someone like Squintina makes one. Apologies to the controller users out there.
