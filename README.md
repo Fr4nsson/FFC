@@ -80,7 +80,7 @@ Obviously not everyone might like the layout or the keybinds, there may also be 
 5. Open the zip file you downloaded.
 6. Open the <code>Manual Installation</code> folder.
 7. Extract <code>FFXIV.cfg</code> and <code>MACROSYS.dat</code> into <code>FINAL FANTASY XIV - A Realm Reborn</code> folder and replace when prompted.
-8. Rename one of the <code>Addon_<RESOLUTION>.dat</code> inside <code>CharacterData</code> to just <code>Addon.dat</code> and delete the other ones.
+8. Rename one of the <code>Addon_RESOLUTION.dat</code> inside <code>CharacterData</code> to just <code>Addon.dat</code> and delete the other ones.
 9. Extract files INSIDE of <code>CharacterData</code> into each folder starting with <code>FFXIV_CHR</code> and replace when prompted.
 10. Read the <code>README.txt</code> which came with the zip, it contains important information you need to know.
 11. Done. :tada: 
