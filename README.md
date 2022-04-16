@@ -23,7 +23,7 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
 2. [Main Hotbar](#main-hotbar-)
 3. [General Idea](#general-idea-)
 4. [Backup](#backup-)
-5. [Installation (PC)](#installation-pc--youtube--picture-)
+5. [Installation (PC)](#installation-pc-)
 6. [Installation (Console)](#installation-console-)
 7. [What each files does](#what-each-files-does-)
 8. [Custom Menu](#custom-menu-)
@@ -65,16 +65,25 @@ Obviously not everyone might like the layout or the keybinds, there may also be 
    <code>FFXIV_CHR</code> folders
 5. Done
 
-## Installation (PC) | [Youtube][install-youtube] | [Picture][install-picture] <sup>[⮝][index]</sup>
+## Installation (PC) <sup>[⮝][index]</sup>
+1. Make sure the game is not running! 
+2. [Download][download] the config from nexusmods.
+3. Run the installer.
+4. Done. :tada:
+
+## Manual Installation (PC) | [Youtube][install-youtube] | [Picture][install-picture] <sup>[⮝][index]</sup>
 1. Make sure the game is not running! 
 2. [Backup](#backup-) your current config, installing this config will overwrite almost everything you have.
-3. [Download][download] the correct resolution config from nexusmods.
+3. [Download][download] the config from nexusmods.
 4. Navigate to your ffxiv config location on your computer, it is usually under<br>
   <code>Documents\My Games\FINAL FANTASY XIV - A Realm Reborn</code>
 5. Open the zip file you downloaded.
-6. Extract <code>FFXIV.cfg</code> and <code>MACROSYS.dat</code> into <code>FINAL FANTASY XIV - A Realm Reborn</code> folder and replace when prompted.
-7. Extract files INSIDE of <code>CharacterData</code> into each folder starting with <code>FFXIV_CHR</code> and replace when prompted.
-8. Done. :tada:
+6. Open the <code>Manual Installation</code> folder.
+7. Extract <code>FFXIV.cfg</code> and <code>MACROSYS.dat</code> into <code>FINAL FANTASY XIV - A Realm Reborn</code> folder and replace when prompted.
+8. Rename one of the <code>Addon_<RESOLUTION>.dat</code> inside <code>CharacterData</code> to just <code>Addon.dat</code> and delete the other ones.
+9. Extract files INSIDE of <code>CharacterData</code> into each folder starting with <code>FFXIV_CHR</code> and replace when prompted.
+10. Read the <code>README.txt</code> which came with the zip, it contains important information you need to know.
+11. Done. :tada: 
 
 ![Installation][install-trans]
 
@@ -85,8 +94,8 @@ You need to buy at least starter edition on pc (yes, even if you have already bo
 2. Install the game.
 3. Completely log into the character(s) you want the config on.
 4. Completely exit the game.
-5. [Download][download] and install the correct resolution config from nexusmods.
-   * See section [Installation (PC)](#installation-pc--youtube--picture-) on how to install for PC.
+5. [Download][download] and install config from nexusmods.
+   * See section [Installation (PC)](#installation-pc-) on how to install for PC.
 7. Log back in on any character that you logged into in <code>step 3</code> and verify that the config did install correctly.
 8. Log out to the character screen (Do not exit game).
 9. On the character screen, click the cog wheel in the top right corner <code>Back Up CLIENT Settings</code>.
