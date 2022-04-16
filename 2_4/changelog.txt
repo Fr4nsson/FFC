@@ -1,0 +1,38 @@
+CHANGELOG 2.4
+
+• Spells:
+  All jobs (PVP) changed, removed old ones and added new ones.
+  MCH (NON-PVP) Drill moved from CTRL+1 to SHIFT+1.
+  MCH (NON-PVP) Air Anchor moved from SHIFT+1 to CTRL+1.
+  PLD (NON-PVP) Shield Bash moved from 4 to CTRL+4.
+  PLD (NON-PVP) Low Blow moved from CTRL+4 to 4.
+  SAM (NON-PVP) Removed spell, Hissatsu: Kaiten due to square enix removing it from the game.
+  Fisher spell layout changed ¹
+  Crafters spell layout changed ²
+
+• Hud element:
+  AST gauge adjusted.
+  BRD gauge adjusted.
+  RDM gauge adjusted.
+  SMN gauge adjusted.
+  GNB gauge adjusted.
+
+• Macro:
+  Added auto translation where possible in all macros for language compatibility.
+  Description fixed in "Toggle Database 9" shared macro.
+  Changed /bfx to /battleeffect and me to self in the "BFX #" shared macros for language compatibility.
+  Ridepillion macro added.
+  Inventory open and sort macros changed.
+  Added the shared macro "Why spells here?" to the database hotbar (hotbar 7) for all jobs with empty database to make it easier to see if you have toggled the visibility of the database hotbar.
+  Changed /automove <wait.3> to /automove <wait.4> in the "BLU All Other" shared macro in order for it to work with Titan trial.
+
+• Keybind:
+  Ridepillion macro bound to ALT+H.
+  
+• Controller:
+  Unchanged, same as in V2.3. 
+
+• References
+  ¹ https://raw.githubusercontent.com/Fr4nsson/FFXIV-Config/main/2_4/hotbar_layouts/NON_PVP/Profession/22_FSH_Fisher.JPG
+  ² https://raw.githubusercontent.com/Fr4nsson/FFXIV-Config/main/2_4/hotbar_layouts/NON_PVP/Profession/23_CUL_Culinarian.JPG
+  ² https://raw.githubusercontent.com/Fr4nsson/FFXIV-Config/main/2_4/hotbar_layouts/NON_PVP/Profession/24_Rest_of_the_crafters.txt

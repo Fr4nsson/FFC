@@ -1,0 +1,31 @@
+If you are unsure of your version press ALT+U, go to the 'Shared' tab and in the bottom right 
+(the bread macro) you can see your version.
+
+If you didn't update to V2.4 and you're currently on V2.3 and you want to manually update to v2.4 
+then use the macros directly below. Make sure you have copied the culinarian layout first and then 
+press ALT+U to bring up the macro editor and make macros with the lines below.
+
+/hotbar copy "Culinarian" 1 "Alchemist" 1
+/hotbar copy "Culinarian" 2 "Alchemist" 2
+/hotbar copy "Culinarian" 3 "Alchemist" 3
+/hotbar copy "Culinarian" 1 "Weaver" 1
+/hotbar copy "Culinarian" 2 "Weaver" 2
+/hotbar copy "Culinarian" 3 "Weaver" 3
+/hotbar copy "Culinarian" 1 "Leatherworker" 1
+/hotbar copy "Culinarian" 2 "Leatherworker" 2
+/hotbar copy "Culinarian" 3 "Leatherworker" 3
+/hotbar copy "Culinarian" 1 "Goldsmith" 1
+/hotbar copy "Culinarian" 2 "Goldsmith" 2
+/hotbar copy "Culinarian" 3 "Goldsmith" 3
+/hotbar copy "Culinarian" 1 "Armorer" 1
+/hotbar copy "Culinarian" 2 "Armorer" 2
+/hotbar copy "Culinarian" 3 "Armorer" 3
+
+/hotbar copy "Culinarian" 1 "Blacksmith" 1
+/hotbar copy "Culinarian" 2 "Blacksmith" 2
+/hotbar copy "Culinarian" 3 "Blacksmith" 3
+/hotbar copy "Culinarian" 1 "Carpenter" 1
+/hotbar copy "Culinarian" 2 "Carpenter" 2
+/hotbar copy "Culinarian" 3 "Carpenter" 3
+
+
