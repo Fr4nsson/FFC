@@ -30,7 +30,7 @@ A complete config for FFXIV with a clean informational HUD layout. All jobs have
    1. [non-pvp](#non-pvp-areas-)
    2. [pvp](#pvp-areas-wolves-den-pier-)
 9. [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-)
-10. [V2.3 Hotbar Layouts](https://github.com/Fr4nsson/FFXIV-Config/tree/main/2_3/hotbar_layouts)
+10. [V2.4 Hotbar Layouts](https://github.com/Fr4nsson/FFXIV-Config/tree/main/2_4/hotbar_layouts)
 11. [Keybinds](#keybinds-)
     1. [inventory](#inventory-)
     2. [mount](#mount-)
