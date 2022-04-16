@@ -33,6 +33,6 @@ CHANGELOG 2.4
   Unchanged, same as in V2.3. 
 
 • References
-  ¹ https://raw.githubusercontent.com/Fr4nsson/FFXIV-Config/main/2_4/hotbar_layouts/NON_PVP/Profession/22_FSH_Fisher.JPG
-  ² https://raw.githubusercontent.com/Fr4nsson/FFXIV-Config/main/2_4/hotbar_layouts/NON_PVP/Profession/23_CUL_Culinarian.JPG
+  ¹ https://raw.githubusercontent.com/Fr4nsson/FFXIV-Config/main/2_4/hotbar_layouts/NON_PVP/Profession/22_FSH_Fisher.png
+  ² https://raw.githubusercontent.com/Fr4nsson/FFXIV-Config/main/2_4/hotbar_layouts/NON_PVP/Profession/23_CUL_Culinarian.png
   ² https://raw.githubusercontent.com/Fr4nsson/FFXIV-Config/main/2_4/hotbar_layouts/NON_PVP/Profession/24_Rest_of_the_crafters.txt
