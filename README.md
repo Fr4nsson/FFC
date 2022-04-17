@@ -74,7 +74,7 @@ Obviously not everyone might like the layout or the keybinds, there may also be 
 
 ## Manual Installation (PC) | [Youtube][install-youtube] | [Picture][install-picture] <sup>[⮝][index]</sup>
 1. Make sure the game is not running! 
-2. [Backup](#backup-) your current config, installing this config will overwrite almost everything you have.
+2. [Backup](#backup-) your current config, installing this config will overwrite almost everything in your current config.
 3. [Download][download] the config from nexusmods.
 4. Navigate to your ffxiv config location on your computer, it is usually under<br>
   <code>Documents\My Games\FINAL FANTASY XIV - A Realm Reborn</code>
