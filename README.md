@@ -214,10 +214,14 @@ For more information on how the custom menu works, see [Custom Menu](#custom-men
 
 <details><p></p>
 <summary>In expandable menu, when I click on job change icon, nothing happens, whats wrong?</summary>
-Wrong gearset name, make sure at least one of each job has a gearset with default name, gunbreaker gearset should be <code>GNB(ilvl)</code> for example.<p></p>
-
+Wrong gearset name, make sure at least one of each job has a gearset with default name, gunbreaker gearset should be <code>Gunbreaker</code> for example.
+<br>
+<br>
+With the release of patch <a href="https://na.finalfantasyxiv.com/lodestone/topics/detail/c73cd284013587066d8f9e697fab1db9f007372c#random-d49d098fa34f4ecc258f72c73b183c243f94d26e">6.1</a> there was some changes with gearset names too, before the default name was <code>GNB(ilvl)</code> but now it is just <code>Gunbreaker</code> for english language. <b>Important!</b>, if you're playing the game with a non-english language you need to either rename your gearsets to english names <b>OR</b> make your gearset names all lowercase in order for the autotranslation in the job macros to work.
+<br>
+<br>
 If this happens in PvP areas it's because you're not currently a compatible job for PvP, i.e. professions and blue mage won't work in pvp area with custom menu since they don't have pvphotbars. 
-
+<br>
 Switch to a compatible job by bringing up gearset menu <code>SHIFT + G</code>.
 <br><br><br><br><br><br></details>
 
