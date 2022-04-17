@@ -231,6 +231,7 @@ CTRL  + I           = Armoury Chest
 ```
 #### Mount <sup>[⮝][index]</sup>
 ```
+ALT   + H           = Ridepillion
 SHIFT + H           = Single Seat Mount
 CTRL  + H           = Multiple Seat Mount
 ```
