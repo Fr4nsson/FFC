@@ -69,7 +69,8 @@ Obviously not everyone might like the layout or the keybinds, there may also be 
 1. Make sure the game is not running! 
 2. [Download][download] the config from nexusmods.
 3. Run the installer.
-4. Done. :tada:
+4. Check the shortcut that was placed on your desktop.
+5. Done. :tada:
 
 ## Manual Installation (PC) | [Youtube][install-youtube] | [Picture][install-picture] <sup>[⮝][index]</sup>
 1. Make sure the game is not running! 
