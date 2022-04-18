@@ -1,0 +1,28 @@
+If you're using a NON-ENGLISH language in game you will also need to make sure that all your gearsets is named 
+exactly as the auto-translation in the macros. From what I've noticed only people playing with French language is 
+affected by this. For example, French players need to change their gearset names to all lowercase letters in 
+order for the job macros to work.
+
+Depending on what resolution you choose to install you will need to do the following steps after installation:
+
+1080p:
+  1. Launch the game
+  2. Done.
+
+1440p 100% scaling:
+  1. Launch the game
+  2. Done
+
+1440p 150% scaling:
+  1. Launch the game
+  2. ESC -> System Configuration -> High Resolution UI Settings -> 150%
+  3. ESC -> Character Configuration -> Chat Prompt Font Size -> A font size you like, try 18 (original value * 1.5)
+  4. ESC -> Character Configuration -> Log Details -> Change all font sizes here to the same as previous value.
+  5. Done
+
+4K:
+  1. Launch the game
+  2. ESC -> System Configuration -> High Resolution UI Settings -> 200%
+  3. ESC -> Character Configuration -> Chat Prompt Font Size -> A font size you like, just double the original value.
+  4. ESC -> Character Configuration -> Log Details -> Change all font sizes here to the same as previous value.
+  5. Done
