@@ -7,6 +7,8 @@ CHANGELOG 2.4
   PLD (NON-PVP) Shield Bash moved from 4 to CTRL+4.
   PLD (NON-PVP) Low Blow moved from CTRL+4 to 4.
   SAM (NON-PVP) Removed spell, Hissatsu: Kaiten due to square enix removing it from the game.
+  BRD (NON-PVP) Army's Paeon moved from CTRL+T to SHIFT+T to match the song gauge light up order.
+  BRD (NON-PVP) Mage's Ballad moved from SHIFT+T to CTRL+T to match the song gauge light up order.
   Fisher spell layout changed ¹
   Crafters spell layout changed ²
 
