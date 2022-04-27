@@ -69,8 +69,9 @@ Obviously not everyone might like the layout or the keybinds, there may also be 
 1. Make sure the game is not running! 
 2. [Download][download] the config from nexusmods.
 3. Run the installer.
-4. Check the shortcut that was placed on your desktop.
-5. Done. :tada:
+4. If you don't have the runtime you will be prompted to download it first time running the installer. On [Microsoft's website](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime?cid=getdotnetcore), choose <code>Run desktop apps</code> and then choose the correct one for your system, usually <code>x64</code>. After the runtime has been installed you can fun the ffc installer again.
+6. Check the shortcut that was placed on your desktop.
+7. Done. :tada:
 
 ## Manual Installation (PC) | [Youtube][install-youtube] | [Picture][install-picture] <sup>[⮝][index]</sup>
 1. Make sure the game is not running! 
