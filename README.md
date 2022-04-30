@@ -217,7 +217,7 @@ For Reaper you will follow the exact steps above, just replace <code>Alchemist</
 
 To do this in pvp-areas, tp to <code>Wolves' Den Pier</code> and follow the exact steps above but replace <code>Alchemist</code> with <code>Black Mage (Healer)</code> & <code>Dancer (Dps)</code> 
 
-For more information on how the custom menu works, see [Custom Menu](#custom-menu--).
+For more information on how the custom menu works, see [Custom Menu](#custom-menu-).
 <br><br><br><br><br><br></details>
 
 <details><p></p>
