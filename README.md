@@ -127,23 +127,25 @@ You need to buy at least starter edition on pc (yes, even if you have already bo
 <pre>
 Fr4nsson's FFXIV Config.zip
 |
-|- FFXIV.cfg             : Settings in System Configuration.
-|- MACROSYS.DAT          : Macros (Shared Tab).
-|- CharacterData
+|- Fr4nsson's FFXIV Config Installer.exe : Automatic install/backup
+   Manual Installation
    |
-   |- ADDON.DAT          : UI Settings such as HUD and window layouts.
-   |- ADDON_1080_100.DAT : 1920x1080, 100% Scaling, rename to ADDON.DAT if you want this resolution.
-   |- ADDON_1440_100.DAT : 2560x1440, 100% Scaling, rename to ADDON.DAT if you want this resolution.
-   |- ADDON_1440_150.DAT : 2560x1440, 150% Scaling, rename to ADDON.DAT if you want this resolution.
-   |- ADDON_2160_200.DAT : 3840x2160, 200% Scaling, rename to ADDON.DAT if you want this resolution.
-   |
-   |- COMMON.DAT         : Settings in Character Settings.
-   |- CONTROL0.DAT       : Keyboard/mouse mode settings.
-   |- CONTROL1.DAT       : Gamepad mode settings.
-   |- HOTBAR.DAT         : Hotbar content, (spells placed on hotbars).
-   |- KEYBIND.DAT        : Keybinds.
-   |- LOGFLTR.DAT        : Chat log filter settings.
-   |- MACRO.DAT          : Macros (Individual Tab).
+   |- FFXIV.cfg                          : Settings in System Configuration.
+   |- MACROSYS.DAT                       : Macros (Shared Tab).
+   |- CharacterData
+      |
+      |- ADDON.DAT                       : UI Settings such as HUD and window layouts.
+      |- ADDON_1080_100.DAT              : 1920x1080, 100% Scaling, rename to ADDON.DAT if you want this resolution.
+      |- ADDON_1440_100.DAT              : 2560x1440, 100% Scaling, rename to ADDON.DAT if you want this resolution.
+      |- ADDON_1440_150.DAT              : 2560x1440, 150% Scaling, rename to ADDON.DAT if you want this resolution.
+      |- ADDON_2160_200.DAT              : 3840x2160, 200% Scaling, rename to ADDON.DAT if you want this resolution.
+      |- COMMON.DAT                      : Settings in Character Settings.
+      |- CONTROL0.DAT                    : Keyboard/mouse mode settings.
+      |- CONTROL1.DAT                    : Gamepad mode settings.
+      |- HOTBAR.DAT                      : Hotbar content, (spells placed on hotbars).
+      |- KEYBIND.DAT                     : Keybinds.
+      |- LOGFLTR.DAT                     : Chat log filter settings.
+      |- MACRO.DAT                       : Macros (Individual Tab).
 </pre>
 
 ## Custom Menu <sup>[⮝][index]</sup>
@@ -319,6 +321,9 @@ Scroll Lock         = Toggle visibility for ALL hud elements (Nice for screensho
 SHIFT + Scroll Lock = Toggle visibility on some hud elements (Clean Hud)
 Arrow Keys          = Select a hud element in hud editor and use key to move hud element by pixel
 CTRL + NUMPAD 0     = Toggle Hud Editor
+
+Only 1080p and 2160p versions have the below hud presets!
+
 CTRL + NUMPAD 1     = Hud Preset 1, config default (The one I play with)
 CTRL + NUMPAD 2     = Hud Preset 2, larger
 CTRL + NUMPAD 3     = Hud Preset 3, like Hud Preset 1, gauges and hp reversed
