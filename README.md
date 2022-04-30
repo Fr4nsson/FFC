@@ -200,7 +200,7 @@ No, this is not even a mod, it's only a config so it is 100% safe to use. There 
 
 <details><p></p>
 <summary>Does this config work on console, PS4, PS5 etc?</summary>
-Yes it does, see [Installation (Console)](#installation-console-). 
+Yes it does, see [Installation (Console)](#installation-console-) [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq-). 
    
 <br><br><br><br><br><br></details>
 
