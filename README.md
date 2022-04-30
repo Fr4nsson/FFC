@@ -68,7 +68,7 @@ Obviously not everyone might like the layout or the keybinds, there may also be 
 ## Installation (PC) <sup>[⮝][index]</sup>
 1. Make sure the game is not running! 
 2. [Download][download] the config from nexusmods.
-3. Run the installer, the installer will automatically make backups of your current characters.
+3. Run the installer, the installer will automatically make backups of your current characters and restore them from backup incase at some point you would uninstall the config.
 4. If you don't have the runtime you will be prompted to download it first time running the installer. On [Microsoft's website](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime?cid=getdotnetcore), choose <code>Run desktop apps</code> and then choose the correct one for your system, usually <code>x64</code>. After the runtime has been installed you can run the FFC installer again.
 6. Check the shortcut that was placed on your desktop.
 7. Done. :tada:
