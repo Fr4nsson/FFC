@@ -200,7 +200,7 @@ No, this is not even a mod, it's only a config so it is 100% safe to use. There 
 
 <details><p></p>
 <summary>Does this config work on console, PS4, PS5 etc?</summary>
-Yes it does, see <a href="https://github.com/Fr4nsson/FFXIV-Config/blob/main/README.md#installation-console-">Installation (Console)</a>. 
+Yes it does, see [Installation (Console)](#installation-console-). 
    
 <br><br><br><br><br><br></details>
 
