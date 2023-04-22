@@ -1,0 +1,4 @@
+If you're using a NON-ENGLISH language in game you will also need to make sure that all your gearsets is named 
+exactly as the auto-translation in the macros. From what I've noticed only people playing with French language is 
+affected by this. For example, French players need to change their gearset names to all lowercase letters in 
+order for the job macros to work.

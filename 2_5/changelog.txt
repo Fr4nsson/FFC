@@ -1,0 +1,38 @@
+CHANGELOG 2.5
+
+• Installer:
+  Support for new characters after initial installation.
+
+• Controller (NON-PVP):
+  Updated spell layouts for all jobs except gatherers, credit Squintina
+  https://www.youtube.com/@Squintina
+
+• Spells:
+  MRD Shake it Off (CTRL+F).
+  MRD Nascent Flash (SHIFT+F).
+  PLD Bulwark (CTRL+T) added to hotbar.
+  BLM (PVP) Paradox (3) added to hotbar.
+  BLM (PVP) Nightwing (4) added to hotbar.
+  AST Crown Play (CTRL+2) removed from hotbar.
+  MIN Collect (CTRL+C) added to hotbar.
+  BTN Collect (CTRL+C) added to hotbar.
+  Crafters Heart and Soul (CTRL + T) added to hotbar.
+
+• Settings:
+  System -> Keybind -> Hotbar -> Hotbar 8 - Slot 3 = ALT+H
+  System -> Keybind -> Hotbar -> Hotbar 8 - Slot 4 = ALT+1
+  System -> Keybind -> Hotbar -> Hotbar 8 - Slot 5 = ALT+2
+  System -> Keybind -> Hotbar -> Hotbar 8 - Slot 6 = ALT+X
+  System -> Keybind -> Hotbar -> Hotbar 9 - Slot 7 = NUMLOCK || Mouse 3
+  System -> Keybind -> Shortcuts -> Portraits = CTRL+G
+  System -> Keybind -> Shortcuts -> Fashion Accessories = ALT+I
+  System -> Keybind -> Shortcuts -> V&C Dungeon Finder = ALT+U
+  System -> Keybind -> Shortcuts -> User Macros = ALT+M
+  System -> Keybind -> System -> Open HUD Layout Mode = CTRL+NUM0 || Alt+Scroll Lock
+  System -> Character Configuration -> Control Settings -> Character -> Idle Animation Delay = 3
+
+• Macros:
+  Moved all macros to individual tab, current config version can now be seen in macro #99.
+  Added '/petsize all large' to BFX 1
+  Added '/petsize all small' to BFX 2-5
+  Added Improved Auto-Run to Hotbar 9 - Slot 7
