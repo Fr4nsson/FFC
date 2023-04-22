@@ -189,7 +189,7 @@ Below is the currently used jobs, what information they contain in the database 
 <details><p></p>
 <summary>What version am I using?</summary>
 You can always view your current version of the config by opening the macro menu 
-<code>ALT + U</code> go to the <code>Shared Tab</code> and in the bottom right check the macro with the <code>Bread Icon</code>. Compare the version number to the newest version on nexusmods to see if you have the most current one.
+<code>ALT + M</code> and in the bottom right check the macro #99. Compare the version number to the newest version on nexusmods to see if you have the most current one.
 <br><br><br><br><br><br></details>
 
 <details><p></p>
@@ -293,7 +293,7 @@ HOME                = Return
 CTRL + HOME         = Return (Eternity Ring)
 END                 = Teleport Menu
 Print Screen        = Screenshot
-ALT + U             = Macro Menu
+ALT + M             = Macro Menu
 ALT + NUMPAD PLUS   = Continuously increase volume until stopped by pressing NUMPAD -
 NUMPAD -            = Stop volume increase (Macro cancel)
 NUMPAD +            = Toggle Master Volume On/Off
