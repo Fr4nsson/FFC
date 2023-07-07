@@ -152,7 +152,7 @@ Fr4nsson's FFXIV Config.zip
 
 The menu works by using jobs as a database and then assigning items, macros or gearsets to a hidden hotbar you normally don't use so if you want to change what appears in the menu you'll have to unlock some jobs. You don't need to grab the jobs in order to use the menu, you only need to do that in order to edit the menu. 
 
-The logic behind the menu can be found under <code>ALT + U -> Shared Tab</code>
+The logic behind the menu can be found under <code>ALT + M -> Shared Tab</code>
 
 In order to change what is in the menu you need to change to the job that holds the information you're trying to change and press <code>9</code>.
 A hidden hotbar (database hotbar) will appear in the top center of the screen on which you can drag other macros, items, gearsets, mounts or whatever to, when you're done with the changes press <code>9</code> again to toggle the visibility of the database hotbar.
